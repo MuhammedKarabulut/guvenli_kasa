@@ -1,0 +1,2 @@
+# guvenli_kasa
+
