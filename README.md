@@ -33,8 +33,8 @@
 Projeyi bilgisayarınıza alın ve bağımlılıkları yükleyin:
 
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/guvenli-kasa.git
-cd guvenli-kasa
+git clone https://github.com/MuhammedKarabulut/guvenli_kasa.git
+cd guvenli_kasa
 npm install
 ```
 ---
